@@ -1,0 +1,24 @@
+name: fetch-audio
+on:
+  push:
+    paths: ['fetch/**.url']
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Baixar áudios
+        run: |
+          shopt -s nullglob
+          for f in fetch/*.url; do
+            out="${f%.url}.mp3"
+            curl -sSfL -o "$out" "$(cat "$f")" && git rm -q "$f"
+          done
+      - name: Commit
+        run: |
+          git config user.name "fetch-bot"
+          git config user.email "fetch-bot@users.noreply.github.com"
+          git add fetch
+          git diff --cached --quiet || git commit -m "fetch: audio baixado" && git push
