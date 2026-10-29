@@ -1,0 +1,27 @@
+{
+  "nome": "engenharia_video1",
+  "descricao": "HUD de engenharia: fundo navy com grid de prancheta, viewport com colchetes ciano, freeze + mira LOCK, setas curvas amarelas, volume de terra extrudado, transições zoom/glitch/flash na batida.",
+  "cores": {
+    "destaque": "#FFC531",
+    "tecnico": "#3FD8FF",
+    "terra": "#FF8A1F",
+    "fundo": "#060c18",
+    "alerta": "#ff5a4f",
+    "hudTexto": "#7fb6ff",
+    "subtitulo": "#bcd7f2"
+  },
+  "fontes": {
+    "titulo": "Montserrat 900",
+    "apoio": "Montserrat 500/800",
+    "tecnica": "JetBrains Mono 700"
+  },
+  "canvas": { "largura": 1080, "altura": 1920, "fps": 30, "zonaSeguraY": [250, 1700] },
+  "viewport": { "x": 40, "y": 470, "w": 1000, "h": 900 },
+  "efeitos": {
+    "leadInSegundos": 0.6,
+    "transicaoSegundos": 0.35,
+    "scanlines": true,
+    "grao": true,
+    "vinheta": true
+  }
+}
