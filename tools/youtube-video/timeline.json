@@ -1,0 +1,1033 @@
+{
+ "c0": {
+  "offset": 0.0,
+  "dur": 42.109,
+  "sents": [
+   {
+    "text": "Essa torre deveria estar no chão.",
+    "start": 0.0,
+    "end": 1.927
+   },
+   {
+    "text": "Não é exagero meu.",
+    "start": 2.14,
+    "end": 3.351
+   },
+   {
+    "text": "John Burland, um dos engenheiros que salvaram a torre, disse que, por mais cálculos que fizessem, ela não devia estar de pé.",
+    "start": 3.736,
+    "end": 10.653
+   },
+   {
+    "text": "Ela pesa 14.500 toneladas, já chegou a 5,5° de inclinação, e está apoiada numa fundação rasa, em cima de argila mole.",
+    "start": 11.157,
+    "end": 19.877
+   },
+   {
+    "text": "E o mais estranho:",
+    "start": 20.375,
+    "end": 21.203
+   },
+   {
+    "text": "ela só está de pé porque a obra ficou parada por quase 100 anos.",
+    "start": 21.646,
+    "end": 25.237
+   },
+   {
+    "text": "Neste vídeo eu vou te mostrar o que aconteceu no solo debaixo dela.",
+    "start": 25.804,
+    "end": 29.161
+   },
+   {
+    "text": "Também vou mostrar como endireitaram a torre tirando terra de baixo dela, e por que Santos, aqui no Brasil, tem quase 100 prédios tortos pelo mesmo motivo.",
+    "start": 29.632,
+    "end": 38.203
+   },
+   {
+    "text": "No final, tem a lição que eu levo pra todo projeto de fundação.",
+    "start": 38.802,
+    "end": 41.889
+   }
+  ]
+ },
+ "c1": {
+  "offset": 43.309,
+  "dur": 82.678,
+  "sents": [
+   {
+    "text": "Pisa, Itália, 1173.",
+    "start": 43.309,
+    "end": 46.357
+   },
+   {
+    "text": "A cidade era rica, e estava erguendo um conjunto de prédios de mármore:",
+    "start": 46.944,
+    "end": 50.651
+   },
+   {
+    "text": "a catedral, o batistério, e o campanário, a torre do sino.",
+    "start": 51.122,
+    "end": 54.698
+   },
+   {
+    "text": "O projeto era uma torre cilíndrica e oca, com quase 60 metros, oito andares de colunas, e uma escada em espiral dentro das paredes.",
+    "start": 55.285,
+    "end": 63.642
+   },
+   {
+    "text": "A fundação era um anel de pedra de 19,5 metros de diâmetro, raso, a poucos metros da superfície.",
+    "start": 64.059,
+    "end": 70.44
+   },
+   {
+    "text": "Agora olha o que tem embaixo.",
+    "start": 70.947,
+    "end": 72.455
+   },
+   {
+    "text": "Os primeiros 10 metros são sedimentos de rio e de lagoa:",
+    "start": 72.921,
+    "end": 76.208
+   },
+   {
+    "text": "siltes e argilas, misturados com areia.",
+    "start": 76.55,
+    "end": 78.997
+   },
+   {
+    "text": "E tem um detalhe que muda tudo:",
+    "start": 79.518,
+    "end": 80.995
+   },
+   {
+    "text": "do lado sul, esse material é mais argiloso do que do lado norte.",
+    "start": 81.525,
+    "end": 85.105
+   },
+   {
+    "text": "Abaixo disso, até uns 40 metros, vem uma argila marinha mole, saturada de água.",
+    "start": 85.555,
+    "end": 90.521
+   },
+   {
+    "text": "Os italianos chamam de Pancone.",
+    "start": 91.009,
+    "end": 92.796
+   },
+   {
+    "text": "Só lá embaixo aparece uma areia densa e firme.",
+    "start": 93.307,
+    "end": 96.108
+   },
+   {
+    "text": "Pensa numa torre de 14 mil toneladas em cima de um colchão encharcado, um pouco mais mole de um lado.",
+    "start": 96.675,
+    "end": 102.416
+   },
+   {
+    "text": "As sondagens mostram que a superfície dessa argila afundou em forma de prato debaixo da torre.",
+    "start": 102.9,
+    "end": 107.854
+   },
+   {
+    "text": "O recalque médio é de uns 3 metros.",
+    "start": 108.414,
+    "end": 110.584
+   },
+   {
+    "text": "A torre inteira afundou mais do que a altura de um andar.",
+    "start": 111.022,
+    "end": 114.134
+   },
+   {
+    "text": "E isso nem é o problema principal.",
+    "start": 114.634,
+    "end": 116.275
+   },
+   {
+    "text": "Recalque sozinho quase nunca derruba nada.",
+    "start": 116.665,
+    "end": 118.971
+   },
+   {
+    "text": "O que derruba é quando um lado afunda mais que o outro.",
+    "start": 119.353,
+    "end": 122.328
+   },
+   {
+    "text": "Isso é recalque diferencial.",
+    "start": 122.789,
+    "end": 124.662
+   },
+   {
+    "text": "Guarda esse nome.",
+    "start": 125.06,
+    "end": 125.707
+   }
+  ]
+ },
+ "c2": {
+  "offset": 127.187,
+  "dur": 64.679,
+  "sents": [
+   {
+    "text": "Agora vem a parte que quase ninguém conta.",
+    "start": 127.187,
+    "end": 129.635
+   },
+   {
+    "text": "Você já deve ter ouvido que a torre começou a pender pro sul logo no começo da obra.",
+    "start": 130.268,
+    "end": 136.201
+   },
+   {
+    "text": "Não foi bem assim.",
+    "start": 136.854,
+    "end": 137.126
+   },
+   {
+    "text": "Em 1178, cinco anos depois de começar, a obra estava no quarto andar.",
+    "start": 138.68,
+    "end": 143.801
+   },
+   {
+    "text": "E aí parou.",
+    "start": 144.51,
+    "end": 145.011
+   },
+   {
+    "text": "O curioso é como os engenheiros descobriram o que aconteceu nessa época.",
+    "start": 148.946,
+    "end": 149.659
+   },
+   {
+    "text": "Os pedreiros medievais iam corrigindo a inclinação a cada andar, com blocos um pouco mais altos de um lado.",
+    "start": 152.903,
+    "end": 156.266
+   },
+   {
+    "text": "A história da inclinação ficou gravada nas pedras, camada por camada.",
+    "start": 158.412,
+    "end": 160.72
+   },
+   {
+    "text": "Lendo essas camadas, o professor Burland concluiu que, nessa primeira fase, a torre inclinou levemente pro norte.",
+    "start": 163.219,
+    "end": 168.59
+   },
+   {
+    "text": "Coisa de um quarto de grau.",
+    "start": 169.06,
+    "end": 170.403
+   },
+   {
+    "text": "E concluiu outra coisa, bem mais assustadora:",
+    "start": 170.625,
+    "end": 173.949
+   },
+   {
+    "text": "se a obra tivesse continuado, a argila não ia aguentar.",
+    "start": 174.246,
+    "end": 177.122
+   },
+   {
+    "text": "O solo ia romper, e a torre ia tombar ainda em construção.",
+    "start": 177.491,
+    "end": 179.785
+   },
+   {
+    "text": "Ninguém sabe ao certo por que a obra parou.",
+    "start": 180.297,
+    "end": 182.597
+   },
+   {
+    "text": "Pisa vivia em guerra com cidades vizinhas.",
+    "start": 183.134,
+    "end": 185.41
+   },
+   {
+    "text": "O fato é que ela ficou parada quase 100 anos.",
+    "start": 185.853,
+    "end": 188.703
+   },
+   {
+    "text": "E foram esses 100 anos que salvaram a torre.",
+    "start": 189.126,
+    "end": 191.543
+   }
+  ]
+ },
+ "c3": {
+  "offset": 193.066,
+  "dur": 78.602,
+  "sents": [
+   {
+    "text": "Pra entender, a gente precisa falar de adensamento.",
+    "start": 193.066,
+    "end": 196.328
+   },
+   {
+    "text": "Argila mole saturada é como uma esponja cheia d'água.",
+    "start": 196.927,
+    "end": 199.984
+   },
+   {
+    "text": "Os grãos são minúsculos, e os vazios entre eles estão cheios de água.",
+    "start": 200.736,
+    "end": 204.828
+   },
+   {
+    "text": "Quando você coloca uma carga em cima, quem segura primeiro não são os grãos.",
+    "start": 205.463,
+    "end": 209.512
+   },
+   {
+    "text": "É a água.",
+    "start": 209.832,
+    "end": 210.421
+   },
+   {
+    "text": "A pressão da água nos poros sobe na hora.",
+    "start": 210.954,
+    "end": 213.34
+   },
+   {
+    "text": "Só que essa água vai escapando devagar pelos poros.",
+    "start": 213.846,
+    "end": 216.576
+   },
+   {
+    "text": "Conforme ela sai, a carga passa pros grãos, que se encaixam, se apertam, e o solo fica mais resistente.",
+    "start": 216.981,
+    "end": 223.369
+   },
+   {
+    "text": "Em areia, isso acontece rápido.",
+    "start": 223.891,
+    "end": 225.603
+   },
+   {
+    "text": "Em argila, como a água sai muito devagar, pode levar anos, ou décadas.",
+    "start": 226.175,
+    "end": 230.018
+   },
+   {
+    "text": "Quem explicou isso foi o engenheiro Karl Terzaghi, o pai da mecânica dos solos, nos anos vinte.",
+    "start": 230.214,
+    "end": 235.623
+   },
+   {
+    "text": "Ficou uma regra famosa:",
+    "start": 237.307,
+    "end": 236.831
+   },
+   {
+    "text": "o tempo de adensamento cresce com o quadrado da distância que a água tem que percorrer.",
+    "start": 237.307,
+    "end": 243.355
+   },
+   {
+    "text": "Dobra essa distância, e o tempo fica quatro vezes maior.",
+    "start": 243.853,
+    "end": 245.832
+   },
+   {
+    "text": "Agora volta pra Pisa.",
+    "start": 246.008,
+    "end": 248.826
+   },
+   {
+    "text": "Durante quase 100 anos, a torre ficou ali, parada, pressionando a argila.",
+    "start": 249.35,
+    "end": 252.515
+   },
+   {
+    "text": "A água foi saindo, e a argila foi ganhando resistência.",
+    "start": 252.745,
+    "end": 257.143
+   },
+   {
+    "text": "Quando a obra recomeçou, em 1272, o solo já aguentava mais.",
+    "start": 257.651,
+    "end": 262.336
+   },
+   {
+    "text": "Os construtores não sabiam nada disso.",
+    "start": 262.804,
+    "end": 264.806
+   },
+   {
+    "text": "Foi sorte.",
+    "start": 265.193,
+    "end": 265.815
+   },
+   {
+    "text": "Mas é exatamente o que a gente faz hoje de propósito em solo mole.",
+    "start": 266.284,
+    "end": 269.634
+   },
+   {
+    "text": "E daqui a pouco eu te mostro como.",
+    "start": 270.089,
+    "end": 271.396
+   }
+  ]
+ },
+ "c4": {
+  "offset": 272.869,
+  "dur": 85.238,
+  "sents": [
+   {
+    "text": "Em 1272, a obra voltou.",
+    "start": 272.869,
+    "end": 275.588
+   },
+   {
+    "text": "E agora a torre começou a se mover pro sul, o lado mais argiloso, lembra?",
+    "start": 276.157,
+    "end": 280.119
+   },
+   {
+    "text": "Em 1278, a obra chegou ao sétimo andar, com a torre já uns 0,6° pro sul.",
+    "start": 280.701,
+    "end": 286.93
+   },
+   {
+    "text": "E parou de novo, dessa vez por guerra.",
+    "start": 287.434,
+    "end": 290.394
+   },
+   {
+    "text": "De novo:",
+    "start": 290.974,
+    "end": 291.168
+   },
+   {
+    "text": "se tivessem seguido direto, ela teria caído.",
+    "start": 292.657,
+    "end": 293.394
+   },
+   {
+    "text": "Foram mais uns 80 anos de pausa.",
+    "start": 293.986,
+    "end": 297.218
+   },
+   {
+    "text": "Quando voltaram, por volta de 1360, ela já estava em 1,6°.",
+    "start": 297.444,
+    "end": 302.01
+   },
+   {
+    "text": "Os construtores tentaram compensar.",
+    "start": 302.465,
+    "end": 304.215
+   },
+   {
+    "text": "Cada andar novo era feito um pouco torto pro lado contrário, tentando trazer o eixo de volta.",
+    "start": 304.69,
+    "end": 310.679
+   },
+   {
+    "text": "Resultado:",
+    "start": 311.083,
+    "end": 312.248
+   },
+   {
+    "text": "a torre não é reta.",
+    "start": 312.618,
+    "end": 313.256
+   },
+   {
+    "text": "Ela é curva, que nem uma banana.",
+    "start": 313.56,
+    "end": 315.629
+   },
+   {
+    "text": "Dá pra ver no topo:",
+    "start": 316.008,
+    "end": 316.65
+   },
+   {
+    "text": "pra chegar à câmara dos sinos, são seis degraus do lado sul, e só quatro do lado norte.",
+    "start": 319.59,
+    "end": 321.112
+   },
+   {
+    "text": "A câmara dos sinos ficou pronta por volta de 1370, quase 200 anos depois da primeira pedra.",
+    "start": 321.621,
+    "end": 327.886
+   },
+   {
+    "text": "E foi esse peso final que mais empurrou a inclinação.",
+    "start": 328.376,
+    "end": 331.374
+   },
+   {
+    "text": "Em 1817, quando dois arquitetos britânicos mediram com um fio de prumo, ela já estava em uns cinco graus.",
+    "start": 331.831,
+    "end": 338.786
+   },
+   {
+    "text": "Os engenheiros explicam isso com uma imagem simples.",
+    "start": 339.219,
+    "end": 341.805
+   },
+   {
+    "text": "É como empilhar blocos de brinquedo em cima de um carpete fofo:",
+    "start": 342.209,
+    "end": 347.455
+   },
+   {
+    "text": "dá pra subir até uma certa altura, e passou dela, a pilha tomba, por mais cuidado que você tenha.",
+    "start": 347.777,
+    "end": 351.375
+   },
+   {
+    "text": "Isso se chama instabilidade por inclinação.",
+    "start": 351.816,
+    "end": 354.325
+   },
+   {
+    "text": "E a torre de Pisa estava exatamente na altura crítica.",
+    "start": 354.75,
+    "end": 357.842
+   }
+  ]
+ },
+ "c5": {
+  "offset": 359.306,
+  "dur": 68.127,
+  "sents": [
+   {
+    "text": "E aqui entra a parte mais irônica da história:",
+    "start": 359.306,
+    "end": 361.719
+   },
+   {
+    "text": "quase toda vez que alguém tentou ajudar, piorou.",
+    "start": 362.411,
+    "end": 365.282
+   },
+   {
+    "text": "Em 1838, um arquiteto mandou escavar uma calçada em volta da base, pra mostrar a fundação.",
+    "start": 366.013,
+    "end": 373.539
+   },
+   {
+    "text": "Do lado sul, a escavação ficou abaixo do lençol freático.",
+    "start": 373.821,
+    "end": 376.092
+   },
+   {
+    "text": "A água invadiu, e a inclinação aumentou de uma vez, mais de um quarto de grau.",
+    "start": 376.565,
+    "end": 381.427
+   },
+   {
+    "text": "Em 1934, injetaram calda de cimento na fundação, pra reforçar a alvenaria.",
+    "start": 382.086,
+    "end": 387.484
+   },
+   {
+    "text": "A torre andou um centímetro pro sul.",
+    "start": 388.022,
+    "end": 390.093
+   },
+   {
+    "text": "Nos anos setenta, o bombeamento de água do subsolo da região fez ela andar mais um centímetro e pouco.",
+    "start": 390.672,
+    "end": 396.213
+   },
+   {
+    "text": "A torre estava tão no limite que qualquer coisa feita no solo mexia com ela.",
+    "start": 396.695,
+    "end": 400.83
+   },
+   {
+    "text": "Em 1990, ela inclinava duas vezes mais rápido por ano do que nos anos trinta.",
+    "start": 401.372,
+    "end": 406.717
+   },
+   {
+    "text": "Um ano antes, em 1989, outra torre medieval italiana, a Torre Cívica de Pavia, desabou de repente, e deixou vítimas.",
+    "start": 407.262,
+    "end": 416.047
+   },
+   {
+    "text": "Em 1990, a torre de Pisa foi fechada ao público.",
+    "start": 416.227,
+    "end": 420.398
+   },
+   {
+    "text": "A fundação estava inclinada 5,5°, e o sétimo andar estava uns 4,5 metros fora do prumo.",
+    "start": 420.877,
+    "end": 427.156
+   }
+  ]
+ },
+ "c6": {
+  "offset": 428.633,
+  "dur": 148.846,
+  "sents": [
+   {
+    "text": "Uma comissão internacional de engenheiros foi montada pra salvar a torre.",
+    "start": 428.633,
+    "end": 432.15
+   },
+   {
+    "text": "E as regras eram duras:",
+    "start": 432.84,
+    "end": 434.105
+   },
+   {
+    "text": "nada de escoras visíveis, nada de mudar a cara do monumento, e toda medida provisória tinha que ser reversível.",
+    "start": 434.633,
+    "end": 442.273
+   },
+   {
+    "text": "Primeiro, ganhar tempo.",
+    "start": 442.535,
+    "end": 443.261
+   },
+   {
+    "text": "Em 1992, cintaram a região do primeiro e do segundo andar com cabos de aço, porque a alvenaria do lado sul estava no limite.",
+    "start": 443.942,
+    "end": 451.695
+   },
+   {
+    "text": "Em 1993, colocaram 600 toneladas de lingotes de chumbo no lado norte, sobre um anel de concreto em volta da base.",
+    "start": 452.256,
+    "end": 461.183
+   },
+   {
+    "text": "Funcionou:",
+    "start": 461.639,
+    "end": 462.837
+   },
+   {
+    "text": "a torre voltou um pouquinho.",
+    "start": 463.446,
+    "end": 464.893
+   },
+   {
+    "text": "Em 1995, tentaram trocar o chumbo por tirantes.",
+    "start": 465.162,
+    "end": 468.838
+   },
+   {
+    "text": "A obra mexeu no solo, a torre reagiu, e começou a andar pro sul.",
+    "start": 469.183,
+    "end": 473.274
+   },
+   {
+    "text": "Tiveram que subir o chumbo pra 900 toneladas, às pressas.",
+    "start": 475.137,
+    "end": 477.142
+   },
+   {
+    "text": "Os próprios engenheiros chamam aquilo de setembro negro.",
+    "start": 480.116,
+    "end": 480.576
+   },
+   {
+    "text": "Aí veio a solução definitiva, genial justamente por ser contraintuitiva:",
+    "start": 482.179,
+    "end": 484.69
+   },
+   {
+    "text": "se o lado sul afundou demais, a gente faz o lado norte afundar um pouquinho.",
+    "start": 485.259,
+    "end": 489.989
+   },
+   {
+    "text": "Como?",
+    "start": 490.541,
+    "end": 490.903
+   },
+   {
+    "text": "Tirando terra de baixo dele.",
+    "start": 491.065,
+    "end": 492.071
+   },
+   {
+    "text": "A técnica se chama subescavação.",
+    "start": 492.603,
+    "end": 494.639
+   },
+   {
+    "text": "Instalaram tubos inclinados por baixo do lado norte, e por dentro deles, uma broca em espiral retirava pequenas quantidades de solo.",
+    "start": 495.164,
+    "end": 502.688
+   },
+   {
+    "text": "O solo fechava devagar o espaço vazio, e o lado norte descia, milímetro por milímetro.",
+    "start": 503.253,
+    "end": 507.022
+   },
+   {
+    "text": "O risco era enorme.",
+    "start": 507.399,
+    "end": 508.888
+   },
+   {
+    "text": "Os estudos mostraram que existia uma linha crítica debaixo da fundação.",
+    "start": 509.453,
+    "end": 512.936
+   },
+   {
+    "text": "Tirando solo do lado de fora dessa linha, a torre voltava.",
+    "start": 513.096,
+    "end": 517.124
+   },
+   {
+    "text": "Passando dela, a torre podia ficar instável.",
+    "start": 517.311,
+    "end": 519.463
+   },
+   {
+    "text": "Antes de tocar na torre, testaram tudo numa fundação experimental de 7 metros, na própria praça, e prenderam cabos de segurança no terceiro andar.",
+    "start": 519.801,
+    "end": 529.995
+   },
+   {
+    "text": "Em fevereiro de 1999, fizeram a primeira extração, de uns 20 litros por dia.",
+    "start": 530.566,
+    "end": 535.975
+   },
+   {
+    "text": "Por alguns dias, nada.",
+    "start": 536.491,
+    "end": 537.973
+   },
+   {
+    "text": "Depois, devagar, a torre começou a girar pro norte.",
+    "start": 538.51,
+    "end": 541.9
+   },
+   {
+    "text": "No ano seguinte, com 41 furos, chegaram a tirar uns 120 litros por dia, sob monitoramento constante.",
+    "start": 542.404,
+    "end": 549.105
+   },
+   {
+    "text": "Em junho de 2001, terminou.",
+    "start": 549.621,
+    "end": 551.521
+   },
+   {
+    "text": "A inclinação caiu meio grau, mais ou menos 40 cm lá em cima.",
+    "start": 552.051,
+    "end": 556.085
+   },
+   {
+    "text": "No total, foram uns dois caminhões de terra.",
+    "start": 556.632,
+    "end": 559.001
+   },
+   {
+    "text": "Meio grau parece pouco, e ninguém nota olhando.",
+    "start": 559.501,
+    "end": 562.09
+   },
+   {
+    "text": "Mas devolveu a torre à inclinação que ela tinha por volta de 1810.",
+    "start": 562.555,
+    "end": 566.729
+   },
+   {
+    "text": "E ela continuou se ajeitando sozinha:",
+    "start": 567.196,
+    "end": 568.916
+   },
+   {
+    "text": "até 2018, voltou mais 4 cm.",
+    "start": 569.307,
+    "end": 573.803
+   },
+   {
+    "text": "A previsão é de pelo menos 200 anos sem precisar de outra intervenção.",
+    "start": 573.974,
+    "end": 577.218
+   }
+  ]
+ },
+ "c7": {
+  "offset": 578.679,
+  "dur": 97.724,
+  "sents": [
+   {
+    "text": "Você não precisa ir pra Itália pra ver isso.",
+    "start": 578.679,
+    "end": 580.911
+   },
+   {
+    "text": "Na orla de Santos, no litoral de São Paulo, tem quase 100 prédios inclinados, a maioria construída nos anos sessenta e setenta.",
+    "start": 581.384,
+    "end": 588.736
+   },
+   {
+    "text": "O solo lá tem uma camada de areia de uns dez a doze metros, que até é boa.",
+    "start": 589.605,
+    "end": 595.137
+   },
+   {
+    "text": "Mas embaixo vem uma camada grossa de argila marinha mole.",
+    "start": 595.351,
+    "end": 597.716
+   },
+   {
+    "text": "Terreno realmente firme, só lá pelos 55 metros.",
+    "start": 598.379,
+    "end": 602.071
+   },
+   {
+    "text": "E os prédios foram feitos com fundação rasa:",
+    "start": 602.656,
+    "end": 604.841
+   },
+   {
+    "text": "sapatas a um metro e meio, dois metros de profundidade, apoiadas na areia, como se a argila lá embaixo não existisse.",
+    "start": 605.361,
+    "end": 614.266
+   },
+   {
+    "text": "A areia distribui a carga, a argila recebe, adensa, e recalca.",
+    "start": 614.643,
+    "end": 617.461
+   },
+   {
+    "text": "Igualzinho a Pisa.",
+    "start": 617.953,
+    "end": 618.977
+   },
+   {
+    "text": "Tem um agravante:",
+    "start": 619.751,
+    "end": 620.582
+   },
+   {
+    "text": "os prédios ficam colados uns nos outros.",
+    "start": 621.036,
+    "end": 623.317
+   },
+   {
+    "text": "A carga de um soma com a do vizinho dentro da argila, e os dois acabam pendendo um pro outro.",
+    "start": 623.72,
+    "end": 628.725
+   },
+   {
+    "text": "O caso mais famoso é o Edifício Núncio Malzoni:",
+    "start": 629.504,
+    "end": 632.273
+   },
+   {
+    "text": "17 andares, construído em 1967, sobre sapatas rasas.",
+    "start": 632.844,
+    "end": 638.023
+   },
+   {
+    "text": "Chegou a 2,2° de inclinação, e piorava todo ano.",
+    "start": 638.562,
+    "end": 642.745
+   },
+   {
+    "text": "A solução foi o contrário de Pisa:",
+    "start": 643.532,
+    "end": 645.42
+   },
+   {
+    "text": "em vez de fazer o lado alto descer, levantaram o lado baixo.",
+    "start": 645.973,
+    "end": 649.434
+   },
+   {
+    "text": "Fizeram 16 estacas escavadas de 55 metros, até o solo firme.",
+    "start": 650.022,
+    "end": 654.734
+   },
+   {
+    "text": "Por cima, vigas de transição abraçando os pilares antigos.",
+    "start": 655.325,
+    "end": 658.572
+   },
+   {
+    "text": "E com 14 macacos hidráulicos, foram levantando o prédio aos poucos, até ele voltar pro prumo, na virada dos anos dois mil.",
+    "start": 658.739,
+    "end": 666.533
+   },
+   {
+    "text": "Muitos dos outros prédios continuam lá, inclinados.",
+    "start": 667.447,
+    "end": 670.357
+   },
+   {
+    "text": "E vários ainda recalcam devagar, porque a argila continua adensando, décadas depois.",
+    "start": 670.842,
+    "end": 676.183
+   }
+  ]
+ },
+ "c8": {
+  "offset": 677.603,
+  "dur": 88.764,
+  "sents": [
+   {
+    "text": "Então, o que Pisa e Santos ensinam pra quem projeta?",
+    "start": 677.603,
+    "end": 680.733
+   },
+   {
+    "text": "Antes de tudo, a minha opinião, de quem projeta estrutura todo dia:",
+    "start": 681.381,
+    "end": 686.412
+   },
+   {
+    "text": "em casos assim, o ideal é recorrer a um engenheiro geotécnico com experiência.",
+    "start": 686.679,
+    "end": 692.259
+   },
+   {
+    "text": "O calculista resolve a estrutura.",
+    "start": 692.728,
+    "end": 693.742
+   },
+   {
+    "text": "Mas quem lê o solo, interpreta a sondagem e prevê o recalque é o geotécnico.",
+    "start": 693.951,
+    "end": 699.062
+   },
+   {
+    "text": "Em terreno de argila mole, é esse profissional que separa um prédio no prumo de um prédio torto.",
+    "start": 699.303,
+    "end": 705.826
+   },
+   {
+    "text": "Agora, as lições.",
+    "start": 706.256,
+    "end": 706.9
+   },
+   {
+    "text": "Primeiro:",
+    "start": 708.566,
+    "end": 707.378
+   },
+   {
+    "text": "fundação começa na sondagem.",
+    "start": 708.566,
+    "end": 710.086
+   },
+   {
+    "text": "Sem saber o que tem lá embaixo, todo cálculo em cima é chute.",
+    "start": 710.352,
+    "end": 713.274
+   },
+   {
+    "text": "Em solo mole, às vezes a sondagem à percussão não basta, e vale ensaio de adensamento em laboratório.",
+    "start": 713.481,
+    "end": 719.232
+   },
+   {
+    "text": "Segundo:",
+    "start": 719.596,
+    "end": 720.573
+   },
+   {
+    "text": "recalque total quase nunca é o vilão.",
+    "start": 722.305,
+    "end": 722.761
+   },
+   {
+    "text": "O vilão é o diferencial.",
+    "start": 722.936,
+    "end": 723.971
+   },
+   {
+    "text": "Solo que muda de um lado pro outro, carga excêntrica, prédio vizinho, escavação ao lado:",
+    "start": 724.373,
+    "end": 729.524
+   },
+   {
+    "text": "tudo isso cria diferença.",
+    "start": 729.872,
+    "end": 731.308
+   },
+   {
+    "text": "A própria NBR 6122, a norma de fundações, pede a verificação de recalques.",
+    "start": 731.722,
+    "end": 737.011
+   },
+   {
+    "text": "Terceiro:",
+    "start": 737.595,
+    "end": 738.041
+   },
+   {
+    "text": "em argila mole, o tempo é variável de projeto.",
+    "start": 738.445,
+    "end": 741.014
+   },
+   {
+    "text": "O que Pisa fez por sorte, hoje a gente faz de propósito:",
+    "start": 741.573,
+    "end": 744.948
+   },
+   {
+    "text": "aterro de pré-carregamento, drenos verticais pra acelerar a saída da água, e construção em etapas.",
+    "start": 745.317,
+    "end": 750.962
+   },
+   {
+    "text": "Ou leva a fundação até o solo firme, e para de depender da argila.",
+    "start": 751.276,
+    "end": 756.246
+   },
+   {
+    "text": "E quarto:",
+    "start": 756.535,
+    "end": 757.161
+   },
+   {
+    "text": "monitora.",
+    "start": 757.621,
+    "end": 757.147
+   },
+   {
+    "text": "Pisa foi salva porque mediram cada fração de grau.",
+    "start": 757.621,
+    "end": 760.384
+   },
+   {
+    "text": "Na sua obra, um controle de recalques bem feito avisa o problema muito antes da primeira trinca.",
+    "start": 760.765,
+    "end": 766.099
+   }
+  ]
+ },
+ "c9": {
+  "offset": 767.567,
+  "dur": 20.846,
+  "sents": [
+   {
+    "text": "A torre de Pisa ficou de pé por sorte, por uma obra parada por décadas, e, no fim, por muita engenharia.",
+    "start": 767.567,
+    "end": 773.983
+   },
+   {
+    "text": "Os seus projetos não podem depender de sorte.",
+    "start": 774.633,
+    "end": 777.163
+   },
+   {
+    "text": "Se a sua cidade também tem prédio torto, conta aqui nos comentários onde fica.",
+    "start": 777.74,
+    "end": 781.612
+   },
+   {
+    "text": "E se você curte entender por que as estruturas fazem o que fazem, se inscreve, que tem mais caso assim vindo por aí.",
+    "start": 782.086,
+    "end": 788.413
+   }
+  ]
+ },
+ "total": 789.913
+}
