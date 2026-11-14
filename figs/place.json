@@ -1,0 +1,450 @@
+{
+"place": {
+"87": [
+{
+"h2": "2. Concepção",
+"img": "fig-arquitetura-estacas",
+"w": 800,
+"h": 598,
+"alt": "Modelo 3D da arquitetura com a estrutura e as estacas posicionadas",
+"cap": "A arquitetura modelada em 3D, já com pilares, vigas e estacas lançados."
+},
+{
+"h2": "Onde entra a compatibilização",
+"img": "fig-estrutura-3d",
+"w": 800,
+"h": 600,
+"alt": "Modelo estrutural de residência com fundação, pilares, vigas e lajes",
+"cap": "Modelo estrutural completo: fundação, pilares, vigas e lajes."
+}
+],
+"86": [
+{
+"h2": "O que é contraventamento",
+"img": "fig-galpao-metalico",
+"w": 800,
+"h": 600,
+"alt": "Galpão em estrutura metálica modelado em 3D com pilares, tesouras e contraventamentos",
+"cap": "Galpão metálico modelado em BIM: pilares, tesouras, terças e contraventamentos."
+},
+{
+"h2": "O vento manda",
+"img": "fig-cobertura-arco",
+"w": 800,
+"h": 491,
+"alt": "Cobertura metálica em arco modelada em 3D",
+"cap": "Cobertura metálica em arco, com as treliças modeladas peça por peça."
+}
+],
+"85": [
+{
+"h2": "Para que serve o estribo",
+"img": "fig-pilares-blocos",
+"w": 800,
+"h": 546,
+"alt": "Pilares de concreto nascendo dos blocos de fundação no modelo estrutural",
+"cap": "Pilares em destaque no modelo, saindo dos blocos de fundação."
+}
+],
+"84": [
+{
+"h2": "O que é a fluência",
+"img": "fig-alvenaria-balanco",
+"w": 800,
+"h": 503,
+"alt": "Alvenaria apoiada sobre viga em balanço em modelo 3D",
+"cap": "Parede apoiada sobre viga em balanço: é a deformação lenta da viga que trinca a alvenaria."
+},
+{
+"h2": "O encunhamento",
+"img": "fig-alvenaria-vigas",
+"w": 800,
+"h": 536,
+"alt": "Alvenaria, pilares e vigas no mesmo modelo 3D",
+"cap": "Alvenaria, pilares e vigas no mesmo modelo, para conferir onde cada parede apoia."
+}
+],
+"83": [
+{
+"h2": "Por que o isopor",
+"img": "fig-protendida-trelicada",
+"w": 800,
+"h": 600,
+"alt": "Estrutura de residência com vigas protendidas e laje treliçada",
+"cap": "Residência com vigas protendidas e laje treliçada."
+}
+],
+"82": [
+{
+"h2": "Qual é a flecha",
+"img": "fig-balanco-protendido",
+"w": 800,
+"h": 600,
+"alt": "Residência com balanço e vão livre resolvidos com vigas protendidas",
+"cap": "Casa com balanço e vão grande, resolvidos com viga protendida."
+},
+{
+"h2": "Quando a protensão",
+"img": "fig-protendida-trelicada",
+"w": 800,
+"h": 600,
+"alt": "Estrutura de residência com vigas protendidas e laje treliçada",
+"cap": "A estrutura da mesma casa: vigas protendidas com cordoalha engraxada e laje treliçada."
+}
+],
+"81": [
+{
+"h2": "Como é a execução",
+"img": "fig-estacas-baldrame",
+"w": 800,
+"h": 600,
+"alt": "Estacas, blocos e vigas baldrame em modelo de fundação",
+"cap": "Estacas, blocos e vigas baldrame no modelo de fundação."
+},
+{
+"h2": "Qual é a armadura",
+"img": "fig-ancoragem-estaca",
+"w": 774,
+"h": 387,
+"alt": "Detalhe das esperas da estaca dobradas sobre a armadura do bloco",
+"cap": "Detalhe de projeto: as esperas da estaca dobradas sobre a armadura superior do bloco."
+}
+],
+"80": [
+{
+"h2": "Passo 3",
+"img": "fig-esforcos-axiais",
+"w": 800,
+"h": 400,
+"alt": "Diagrama de esforços normais nos pilares de uma estrutura",
+"cap": "Esforços normais nos pilares: é essa carga que chega a cada bloco."
+},
+{
+"h2": "Aprofundar a estaca",
+"img": "fig-fundacao-cobertura",
+"w": 800,
+"h": 600,
+"alt": "Fundação em estacas modelada junto com a estrutura e a cobertura",
+"cap": "Fundação em estacas modelada junto com a estrutura e a cobertura."
+}
+],
+"34": [
+{
+"h2": "O que você passa a ver",
+"img": "fig-escada-tubulacao",
+"w": 800,
+"h": 632,
+"alt": "Estrutura, escada e tubulações hidráulicas no mesmo modelo BIM",
+"cap": "Estrutura, escada e tubulações no mesmo modelo: os cruzamentos aparecem antes da obra."
+},
+{
+"h2": "Quantitativos",
+"img": "fig-banheiro-bim",
+"w": 800,
+"h": 800,
+"alt": "Banheiro modelado em BIM com tubulações, louças e estrutura",
+"cap": "Banheiro modelado com tubulação, louças e estrutura."
+}
+],
+"33": [
+{
+"h2": "O que faz a taxa de aço subir",
+"img": "fig-estrutura-render",
+"w": 800,
+"h": 800,
+"alt": "Estrutura de concreto armado de residência modelada em 3D",
+"cap": "Estrutura de concreto armado de residência de alto padrão."
+}
+],
+"18": [
+{
+"h2": "Como a sondagem",
+"img": "fig-blocos-terreno",
+"w": 800,
+"h": 400,
+"alt": "Blocos e estacas locados sobre o terreno modelado",
+"cap": "Blocos e estacas locados sobre o terreno modelado."
+},
+{
+"h2": "Não existe fundação padrão",
+"img": "fig-fundacao-corte",
+"w": 800,
+"h": 551,
+"alt": "Fundação em terreno com corte e níveis diferentes de apoio",
+"cap": "Terreno com corte: a fundação muda de nível conforme o solo e o projeto."
+}
+],
+"17": [
+{
+"h2": "O que faz o valor",
+"img": "fig-residencia-render",
+"w": 800,
+"h": 800,
+"alt": "Residência com a estrutura de concreto modelada em BIM",
+"cap": "Residência modelada em BIM, com a estrutura de concreto aparente."
+},
+{
+"h2": "O que está incluído",
+"img": "fig-arq-estrutura-piscina",
+"w": 800,
+"h": 600,
+"alt": "Arquitetura, estrutura, piscina e fundações no mesmo modelo",
+"cap": "Arquitetura, estrutura, piscina e fundações no mesmo modelo."
+}
+],
+"6": [
+{
+"h2": "Quanto aço vai",
+"img": "fig-residencia-completa",
+"w": 800,
+"h": 600,
+"alt": "Residência com estrutura, fundações e cobertura modeladas em BIM",
+"cap": "Residência com fundação, estrutura e cobertura no mesmo modelo."
+}
+],
+"7": [
+{
+"h2": "Por que em BIM",
+"img": "fig-hidro-parede",
+"w": 800,
+"h": 600,
+"alt": "Tubulação de água e esgoto modelada junto à alvenaria",
+"cap": "Água fria, esgoto e ventilação modelados junto à parede."
+},
+{
+"h2": "Lista de materiais",
+"img": "fig-esgoto-pluvial",
+"w": 800,
+"h": 600,
+"alt": "Rede de esgoto e águas pluviais traçada sobre a estrutura",
+"cap": "Rede de esgoto e águas pluviais traçada sobre a estrutura."
+}
+],
+"8": [
+{
+"h2": "Por que em BIM",
+"img": "fig-eletrico-3d",
+"w": 800,
+"h": 600,
+"alt": "Eletrodutos e circuitos de residência modelados em 3D",
+"cap": "Eletrodutos e circuitos modelados em 3D, do quadro até cada ponto."
+}
+],
+"9": [
+{
+"h2": "O que o modelo permite",
+"img": "fig-modelagem-cad-bim",
+"w": 800,
+"h": 400,
+"alt": "Arquitetura recebida em CAD transformada em modelo BIM",
+"cap": "Projeto arquitetônico recebido em CAD e transformado em modelo BIM."
+}
+],
+"50": [
+{
+"h2": "O que a compatibilização encontra",
+"img": "fig-pilar-viga-alvenaria",
+"w": 800,
+"h": 536,
+"alt": "Pilar, viga e alvenaria conferidos no mesmo modelo BIM",
+"cap": "Pilar, viga e alvenaria conferidos no mesmo modelo."
+},
+{
+"h2": "O melhor momento",
+"img": "fig-tubo-viga",
+"w": 800,
+"h": 600,
+"alt": "Tubulação hidráulica passando junto a viga no modelo BIM",
+"cap": "Tubulação passando junto à viga: o conflito é resolvido no modelo, não na obra."
+}
+],
+"47": [
+{
+"h2": "O que eu verifico",
+"img": "fig-arrimo-bloco",
+"w": 800,
+"h": 800,
+"alt": "Muro de arrimo em bloco de concreto com furos grauteados e armados",
+"cap": "Arrimo em bloco de concreto, com furos grauteados e armados."
+},
+{
+"h2": "Drenagem",
+"img": "fig-arrimos-terreno",
+"w": 800,
+"h": 483,
+"alt": "Muros de arrimo locados no terreno modelado",
+"cap": "Muros de arrimo locados no terreno modelado."
+}
+],
+"46": [
+{
+"h2": "O que mais dá problema",
+"img": "fig-piscina-elevada",
+"w": 800,
+"h": 543,
+"alt": "Estrutura de piscina elevada com pilares, vigas e paredes em alvenaria",
+"cap": "Piscina elevada: pilares, vigas e paredes definidos no projeto."
+}
+],
+"44": [
+{
+"h2": "Contraventamento",
+"img": "fig-galpao-metalico",
+"w": 800,
+"h": 600,
+"alt": "Galpão em estrutura metálica modelado em 3D com pilares, tesouras e contraventamentos",
+"cap": "Galpão metálico modelado em BIM, com os contraventamentos de cobertura e de parede."
+}
+],
+"43": [
+{
+"h2": "As peças que não podem faltar",
+"img": "fig-cobertura-arco",
+"w": 800,
+"h": 491,
+"alt": "Cobertura metálica em arco modelada em 3D",
+"cap": "Cobertura metálica em arco, com as treliças modeladas peça por peça."
+}
+],
+"42": [
+{
+"h2": "Perfil dobrado",
+"img": "fig-fundacao-cobertura",
+"w": 800,
+"h": 600,
+"alt": "Cobertura metálica sobre estrutura de concreto e estacas no mesmo modelo",
+"cap": "Cobertura metálica, estrutura de concreto e estacas no mesmo modelo."
+}
+],
+"41": [
+{
+"h2": "O sistema que eu uso",
+"img": "fig-balanco-protendido",
+"w": 800,
+"h": 600,
+"alt": "Residência com balanço apoiado em vigas protendidas",
+"cap": "Casa com balanço e vão grande, apoiados em vigas protendidas."
+},
+{
+"h2": "O que muda na obra",
+"img": "fig-protendida-trelicada",
+"w": 800,
+"h": 600,
+"alt": "Estrutura com vigas protendidas e laje treliçada",
+"cap": "A estrutura da mesma casa: vigas protendidas e laje treliçada."
+}
+],
+"40": [
+{
+"h2": "O que eu preciso da sondagem",
+"img": "fig-blocos-terreno",
+"w": 800,
+"h": 400,
+"alt": "Blocos e estacas locados sobre o terreno modelado",
+"cap": "Blocos e estacas locados sobre o terreno modelado."
+},
+{
+"h2": "Fundação com tração",
+"img": "fig-ancoragem-estaca",
+"w": 774,
+"h": 387,
+"alt": "Detalhe das esperas da estaca dobradas sobre a armadura do bloco",
+"cap": "Detalhe de projeto: esperas da estaca dobradas sobre a armadura do bloco, para garantir a ancoragem."
+}
+],
+"10": [
+{
+"h2": "O que eu projeto para Londrina",
+"img": "fig-modelo-obra-1",
+"w": 800,
+"h": 601,
+"alt": "Modelo estrutural em BIM e a obra correspondente em execução",
+"cap": "O modelo estrutural e a obra em execução."
+}
+],
+"11": [
+{
+"h2": "O que eu projeto para Maringá",
+"img": "fig-modelo-obra-2",
+"w": 800,
+"h": 600,
+"alt": "Modelo com estrutura e instalações e foto da obra concluída",
+"cap": "Estrutura e instalações no modelo, e a obra concluída."
+}
+],
+"13": [
+{
+"h2": "O que eu projeto para Assis",
+"img": "fig-modelo-obra-3",
+"w": 800,
+"h": 600,
+"alt": "Modelo com estrutura e instalações e foto da obra concluída",
+"cap": "Estrutura e instalações no modelo, e a obra pronta."
+}
+],
+"12": [
+{
+"h2": "O que o terreno inclinado muda",
+"img": "fig-terreno-declive",
+"w": 800,
+"h": 454,
+"alt": "Residência em terreno com forte declive modelada com o terreno",
+"cap": "Residência em terreno com forte declive, modelada junto com o terreno."
+}
+],
+"121": [
+{
+"h2": "Como eu trabalho",
+"img": "fig-arq-estrutura-piscina",
+"w": 800,
+"h": 600,
+"alt": "Arquitetura, estrutura e fundações no mesmo modelo BIM",
+"cap": "Arquitetura, estrutura e fundações no mesmo modelo."
+},
+{
+"h2": "O que eu mais projeto",
+"img": "fig-residencia-completa",
+"w": 800,
+"h": 600,
+"alt": "Residência com estrutura, fundações e cobertura modeladas em BIM",
+"cap": "Residência de alto padrão modelada do bloco de fundação à cobertura."
+}
+]
+},
+"imgs": [
+"fig-alvenaria-balanco",
+"fig-alvenaria-vigas",
+"fig-ancoragem-estaca",
+"fig-arq-estrutura-piscina",
+"fig-arquitetura-estacas",
+"fig-arrimo-bloco",
+"fig-arrimos-terreno",
+"fig-balanco-protendido",
+"fig-banheiro-bim",
+"fig-blocos-terreno",
+"fig-cobertura-arco",
+"fig-eletrico-3d",
+"fig-escada-tubulacao",
+"fig-esforcos-axiais",
+"fig-esgoto-pluvial",
+"fig-estacas-baldrame",
+"fig-estrutura-3d",
+"fig-estrutura-render",
+"fig-fundacao-cobertura",
+"fig-fundacao-corte",
+"fig-galpao-metalico",
+"fig-hidro-parede",
+"fig-modelagem-cad-bim",
+"fig-modelo-obra-1",
+"fig-modelo-obra-2",
+"fig-modelo-obra-3",
+"fig-pilar-viga-alvenaria",
+"fig-pilares-blocos",
+"fig-piscina-elevada",
+"fig-protendida-trelicada",
+"fig-residencia-completa",
+"fig-residencia-render",
+"fig-terreno-declive",
+"fig-tubo-viga"
+]
+}
