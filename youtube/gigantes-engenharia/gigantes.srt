@@ -1,0 +1,764 @@
+1
+00:00:00,000 --> 00:00:01,716
+828 metros.
+
+2
+00:00:01,936 --> 00:00:03,190
+O prédio mais alto do mundo.
+
+3
+00:00:04,365 --> 00:00:05,850
+E quase ninguém sabe disso:
+
+4
+00:00:06,239 --> 00:00:07,886
+ele não está apoiado em rocha.
+
+5
+00:00:08,370 --> 00:00:13,078
+Embaixo do Burj Khalifa tem areia, rocha
+fraca e uma água mais salgada que o mar.
+
+6
+00:00:13,298 --> 00:00:15,075
+O que segura esse gigante de pé é atrito.
+
+7
+00:00:15,312 --> 00:00:20,398
+Hoje eu vou te mostrar a peça escondida
+que segura as maiores obras do planeta.
+
+8
+00:00:21,096 --> 00:00:25,939
+Tem uma bola de aço de 660 toneladas
+pendurada no céu, um prédio de 1 km
+
+9
+00:00:25,959 --> 00:00:31,073
+subindo agora, uma represa que mexeu na
+rotação da Terra, e uma obra aqui no
+
+10
+00:00:31,093 --> 00:00:33,302
+Paraná que bateu recorde mundial.
+
+11
+00:00:33,803 --> 00:00:37,857
+E no final você vai ver que a fundação de
+uma casa comum funciona pelo mesmo
+
+12
+00:00:37,877 --> 00:00:39,251
+princípio do Burj Khalifa.
+
+13
+00:00:41,471 --> 00:00:43,387
+Dubai, Emirados Árabes.
+
+14
+00:00:44,011 --> 00:00:49,262
+O Burj Khalifa foi inaugurado em 2010, e
+até hoje é o prédio mais alto do mundo.
+
+15
+00:00:49,962 --> 00:00:53,333
+Quando fizeram as sondagens, os
+engenheiros procuraram rocha firme.
+
+16
+00:00:53,961 --> 00:00:56,768
+Furaram até 140 metros de profundidade.
+
+17
+00:00:57,330 --> 00:00:57,952
+E não acharam.
+
+18
+00:00:58,517 --> 00:01:03,616
+O que tem lá embaixo é areia, arenito
+fraco e calcissiltito, uma rocha mole, que
+
+19
+00:01:03,636 --> 00:01:06,111
+esfarela bem mais fácil que um granito.
+
+20
+00:01:06,724 --> 00:01:08,026
+Então a solução foi outra.
+
+21
+00:01:08,505 --> 00:01:14,993
+Um bloco de concreto de 3,70 metros de
+espessura, o radier, apoiado em 192
+
+22
+00:01:15,013 --> 00:01:15,697
+estacas.
+
+23
+00:01:16,185 --> 00:01:21,481
+Cada estaca tem 1,5 metro de diâmetro e
+desce 47 metros abaixo do radier.
+
+24
+00:01:22,070 --> 00:01:23,462
+E aqui está o pulo do gato.
+
+25
+00:01:23,986 --> 00:01:26,177
+Essas estacas não trabalham pela ponta.
+
+26
+00:01:26,663 --> 00:01:28,023
+Elas trabalham por atrito.
+
+27
+00:01:28,503 --> 00:01:33,523
+É o solo apertando a lateral de cada
+estaca, ao longo de 47 metros, que segura
+
+28
+00:01:33,543 --> 00:01:34,104
+o prédio.
+
+29
+00:01:34,599 --> 00:01:38,718
+Multiplica isso por 192, e você tem o
+maior arranha-céu do mundo parado no
+
+30
+00:01:38,738 --> 00:01:39,054
+lugar.
+
+31
+00:01:39,307 --> 00:01:42,137
+Só que tinha um segundo inimigo.
+
+32
+00:01:42,647 --> 00:01:46,899
+A água do subsolo de Dubai tem mais
+cloreto e sulfato que a própria água do
+
+33
+00:01:46,919 --> 00:01:47,127
+mar.
+
+34
+00:01:47,617 --> 00:01:49,968
+Ela ataca o concreto e enferruja o aço.
+
+35
+00:01:50,418 --> 00:01:55,034
+Por isso o concreto das estacas levou
+adições especiais, e embaixo do radier foi
+
+36
+00:01:55,054 --> 00:01:59,671
+instalada uma proteção catódica, uma malha
+de titânio com corrente elétrica, pra
+
+37
+00:01:59,691 --> 00:02:00,888
+armadura não corroer.
+
+38
+00:02:01,443 --> 00:02:02,242
+Resolvido o chão.
+
+39
+00:02:02,746 --> 00:02:04,646
+Mas lá em cima o problema era outro.
+
+40
+00:02:06,958 --> 00:02:07,547
+O vento.
+
+41
+00:02:08,375 --> 00:02:11,450
+Num prédio alto e fino, o vento não só
+empurra.
+
+42
+00:02:12,087 --> 00:02:15,245
+Ele forma redemoinhos que se soltam de um
+lado e do outro, num ritmo.
+
+43
+00:02:15,473 --> 00:02:20,737
+Se esse ritmo bate com o balanço natural
+do prédio, a oscilação vai crescendo.
+
+44
+00:02:21,309 --> 00:02:26,244
+Pra evitar isso, o Burj passou por mais de
+40 ensaios em túnel de vento, no Canadá.
+
+45
+00:02:26,679 --> 00:02:28,410
+E a resposta foi o formato.
+
+46
+00:02:28,919 --> 00:02:33,937
+A planta é em Y, e o prédio vai encolhendo
+em degraus que giram em espiral conforme
+
+47
+00:02:33,957 --> 00:02:34,241
+sobe.
+
+48
+00:02:34,765 --> 00:02:37,012
+A cada altura, ele tem um desenho
+diferente.
+
+49
+00:02:37,430 --> 00:02:40,681
+Os redemoinhos de um andar não combinam
+com os do andar de cima.
+
+50
+00:02:41,110 --> 00:02:43,948
+Os projetistas chamam isso de confundir o
+vento.
+
+51
+00:02:44,488 --> 00:02:45,388
+E o prédio balança?
+
+52
+00:02:45,815 --> 00:02:46,522
+Balança sim.
+
+53
+00:02:46,949 --> 00:02:48,129
+Todo arranha-céu balança.
+
+54
+00:02:48,559 --> 00:02:52,666
+O projeto só garante que seja pouco, e que
+quem está lá dentro não sinta.
+
+55
+00:02:53,213 --> 00:02:55,144
+Tem mais um recorde escondido nessa obra.
+
+56
+00:02:55,541 --> 00:03:01,915
+Em 8 de novembro de 2007, uma bomba
+empurrou concreto até 601 metros de
+
+57
+00:03:01,935 --> 00:03:05,968
+altura, de uma vez só, por dentro de um
+tubo.
+
+58
+00:03:06,188 --> 00:03:07,124
+Recorde mundial de bombeamento.
+
+59
+00:03:07,344 --> 00:03:11,859
+Mas tem prédio que, em vez de confundir o
+vento, resolveu brigar com ele usando uma
+
+60
+00:03:11,879 --> 00:03:12,569
+bola gigante.
+
+61
+00:03:14,839 --> 00:03:16,000
+Taipei, Taiwan.
+
+62
+00:03:16,715 --> 00:03:22,581
+A Taipei 101 tem 508 metros, numa ilha que
+recebe tufão e terremoto com frequência.
+
+63
+00:03:23,223 --> 00:03:28,071
+Entre o andar 87 e o 92, tem uma esfera de
+aço pendurada por cabos.
+
+64
+00:03:28,557 --> 00:03:33,059
+Ela pesa 660 toneladas e tem 5,5 metros de
+diâmetro.
+
+65
+00:03:33,679 --> 00:03:35,674
+É um amortecedor de massa sintonizada.
+
+66
+00:03:36,228 --> 00:03:40,590
+Quando o prédio balança pra um lado, a
+bola, por inércia, fica pra trás e puxa
+
+67
+00:03:40,610 --> 00:03:41,152
+pro outro.
+
+68
+00:03:41,683 --> 00:03:45,317
+Os amortecedores hidráulicos em volta
+transformam esse movimento em calor.
+
+69
+00:03:45,852 --> 00:03:49,427
+Segundo o próprio prédio, isso reduz o
+balanço em até 40%.
+
+70
+00:03:50,142 --> 00:03:54,070
+Em 8 de agosto de 2015, o tufão Soudelor
+atingiu Taipei.
+
+71
+00:03:54,550 --> 00:03:56,408
+A bola andou 1 metro inteiro.
+
+72
+00:03:56,860 --> 00:03:58,869
+O limite de projeto era 1,5 metro.
+
+73
+00:03:59,321 --> 00:04:01,956
+Funcionou do jeito que foi calculado.
+
+74
+00:04:02,241 --> 00:04:05,414
+Agora, se 500 metros já dá esse trabalho,
+imagina 1.000.
+
+75
+00:04:07,673 --> 00:04:09,397
+Jidá, Arábia Saudita.
+
+76
+00:04:09,946 --> 00:04:14,637
+A Jeddah Tower foi projetada pra ser o
+primeiro prédio da história com mais de 1
+
+77
+00:04:14,657 --> 00:04:15,403
+km de altura.
+
+78
+00:04:16,133 --> 00:04:23,013
+A obra começou em 2013, parou em 2018, e
+voltou em janeiro de 2025.
+
+79
+00:04:23,233 --> 00:04:28,023
+Em 2026, ela já passou dos 100 andares e
+dos 400 metros.
+
+80
+00:04:28,293 --> 00:04:30,798
+E a fundação conta muito sobre esse
+prédio.
+
+81
+00:04:32,338 --> 00:04:38,112
+São 270 estacas, com até 1,8 metro de
+diâmetro, e as mais fundas chegam a 105
+
+82
+00:04:38,132 --> 00:04:38,639
+metros.
+
+83
+00:04:38,971 --> 00:04:42,595
+Por cima, um radier de 5 metros de
+espessura.
+
+84
+00:04:42,815 --> 00:04:43,467
+Repara na diferença.
+
+85
+00:04:43,855 --> 00:04:48,085
+O Burj tem 192 estacas de 47 metros.
+
+86
+00:04:48,430 --> 00:04:52,082
+Na Jeddah, as mais fundas têm mais que o
+dobro disso.
+
+87
+00:04:52,297 --> 00:04:55,531
+Quanto mais alto, mais peso, e mais força
+o vento faz pra tombar o prédio.
+
+88
+00:04:56,102 --> 00:04:57,763
+Tudo isso desce pra fundação.
+
+89
+00:04:58,469 --> 00:05:02,934
+Só que tem obra em que o peso que mais
+importa nem é o concreto.
+
+90
+00:05:03,154 --> 00:05:03,834
+É a água.
+
+91
+00:05:05,236 --> 00:05:06,737
+Rio Yangtzé, China.
+
+92
+00:05:07,364 --> 00:05:12,543
+A usina de Três Gargantas é a maior
+hidrelétrica do mundo em potência
+
+93
+00:05:12,563 --> 00:05:14,653
+instalada, 22.400 megawatts.
+
+94
+00:05:15,284 --> 00:05:19,538
+A barragem consumiu quase 28 milhões de
+metros cúbicos de concreto.
+
+95
+00:05:20,087 --> 00:05:23,290
+E o reservatório guarda perto de 40
+bilhões de metros cúbicos de água,
+
+96
+00:05:23,310 --> 00:05:24,257
+represada lá no alto.
+
+97
+00:05:24,500 --> 00:05:28,673
+Um cientista da NASA, Benjamin Fong Chao,
+fez a conta.
+
+98
+00:05:28,907 --> 00:05:33,968
+Levantar essa massa toda de água muda um
+pouquinho a distribuição de massa do
+
+99
+00:05:33,988 --> 00:05:34,496
+planeta.
+
+100
+00:05:35,198 --> 00:05:38,463
+É como uma patinadora que abre os braços e
+gira mais devagar.
+
+101
+00:05:39,000 --> 00:05:39,490
+Resultado:
+
+102
+00:05:39,930 --> 00:05:41,218
+o dia ficou mais longo.
+
+103
+00:05:41,790 --> 00:05:42,081
+Quanto?
+
+104
+00:05:42,598 --> 00:05:44,583
+0,06 microssegundo.
+
+105
+00:05:45,240 --> 00:05:47,376
+Então não, a China não parou a Terra.
+
+106
+00:05:47,902 --> 00:05:51,710
+Mas é impressionante uma obra humana mexer
+nisso, mesmo que tão pouco.
+
+107
+00:05:52,380 --> 00:05:56,532
+E já que a gente falou de ver obra lá de
+cima, tem um mito que precisa acabar.
+
+108
+00:05:58,802 --> 00:06:01,656
+A Muralha da China não aparece do espaço a
+olho nu.
+
+109
+00:06:02,340 --> 00:06:05,603
+Essa história circulou por décadas, até em
+livro de escola.
+
+110
+00:06:06,223 --> 00:06:10,789
+Só que a muralha é estreita, tem poucos
+metros de largura, e tem quase a cor do
+
+111
+00:06:10,809 --> 00:06:11,776
+terreno em volta.
+
+112
+00:06:12,323 --> 00:06:19,030
+O primeiro astronauta chinês, Yang Liwei,
+voltou da órbita em 2003 e disse que não
+
+113
+00:06:19,050 --> 00:06:19,358
+viu.
+
+114
+00:06:19,836 --> 00:06:20,762
+A NASA confirmou:
+
+115
+00:06:20,984 --> 00:06:23,759
+da órbita baixa, a olho nu, em geral não
+dá.
+
+116
+00:06:23,986 --> 00:06:24,733
+Da Lua, nem pensar.
+
+117
+00:06:25,388 --> 00:06:26,041
+Outro mito:
+
+118
+00:06:26,613 --> 00:06:28,882
+o de que o concreto endurece porque seca.
+
+119
+00:06:29,445 --> 00:06:33,971
+Na verdade, ele endurece porque reage com
+a água, e essa reação esquenta.
+
+120
+00:06:34,655 --> 00:06:40,056
+Na represa Hoover, nos Estados Unidos, os
+engenheiros calcularam que, se ela fosse
+
+121
+00:06:40,076 --> 00:06:43,758
+concretada de uma vez só, ia levar 125
+anos pra esfriar.
+
+122
+00:06:44,631 --> 00:06:49,028
+E por falar em represa, a gente tem uma
+aqui no Brasil que já tirou o recorde
+
+123
+00:06:49,048 --> 00:06:50,519
+mundial de Três Gargantas.
+
+124
+00:06:52,759 --> 00:06:57,428
+Rio Paraná, em Foz do Iguaçu, na fronteira
+com o Paraguai.
+
+125
+00:06:57,648 --> 00:06:58,328
+Itaipu.
+
+126
+00:06:58,001 --> 00:07:03,900
+A barragem principal tem 196 metros de
+altura, o equivalente a um prédio de 65
+
+127
+00:07:03,920 --> 00:07:04,507
+andares.
+
+128
+00:07:04,922 --> 00:07:09,698
+Somando todos os trechos, são 7.919 metros
+de barragem.
+
+129
+00:07:10,186 --> 00:07:17,037
+O concreto da obra, 12,7 milhões de m³,
+daria pra construir 210 estádios do
+
+130
+00:07:17,057 --> 00:07:17,862
+Maracanã.
+
+131
+00:07:18,082 --> 00:07:19,776
+E tem um detalhe de engenharia que pouca
+gente conhece.
+
+132
+00:07:19,958 --> 00:07:22,891
+Quando o cimento reage com a água, ele
+esquenta.
+
+133
+00:07:23,102 --> 00:07:28,503
+Num bloco gigante, o miolo esquenta muito
+mais que a superfície, e essa diferença de
+
+134
+00:07:28,523 --> 00:07:30,374
+temperatura racha o concreto.
+
+135
+00:07:30,868 --> 00:07:35,022
+Por isso, em Itaipu, o concreto foi
+resfriado, com gelo na mistura.
+
+136
+00:07:35,471 --> 00:07:39,500
+A usina tem 14.000 megawatts, bem menos
+potência que Três Gargantas.
+
+137
+00:07:39,682 --> 00:07:45,318
+Mesmo assim, em 2016, Itaipu gerou 103
+milhões de megawatts-hora e bateu o
+
+138
+00:07:45,338 --> 00:07:48,069
+recorde mundial de produção num ano.
+
+139
+00:07:48,289 --> 00:07:49,833
+Uma obra paranaense no topo do mundo.
+
+140
+00:07:50,057 --> 00:07:55,087
+Agora, o que tudo isso tem a ver com o
+projeto que você faz na segunda-feira?
+
+141
+00:07:57,349 --> 00:08:01,818
+Eu sou engenheiro civil, trabalho com
+estruturas e fundações aqui no Paraná, e
+
+142
+00:08:01,838 --> 00:08:04,811
+aqui praticamente tudo que eu projeto vai
+em estaca.
+
+143
+00:08:05,419 --> 00:08:09,452
+Casa de alto padrão, sobrado, edificação
+de até 3 pavimentos.
+
+144
+00:08:10,004 --> 00:08:14,091
+E o que me chama atenção no Burj Khalifa é
+que o raciocínio é o mesmo que eu uso no
+
+145
+00:08:14,111 --> 00:08:14,635
+escritório.
+
+146
+00:08:15,179 --> 00:08:18,007
+A estaca segura pela ponta e pelo atrito
+lateral.
+
+147
+00:08:18,605 --> 00:08:23,612
+No dia a dia, eu calculo essa capacidade
+pelo método semiempírico de Teixeira, a
+
+148
+00:08:23,632 --> 00:08:25,309
+partir do NSPT da sondagem.
+
+149
+00:08:25,882 --> 00:08:29,667
+Primeiro eu defino a profundidade
+possível, olhando o solo, o maquinário da
+
+150
+00:08:29,687 --> 00:08:31,138
+região e o que é costume ali.
+
+151
+00:08:31,766 --> 00:08:36,072
+Depois calculo quanto cada estaca aguenta
+e divido a carga do pilar por esse valor.
+
+152
+00:08:36,673 --> 00:08:40,877
+Na maioria das casas, quem limita o número
+de estacas é o solo, não a carga.
+
+153
+00:08:41,441 --> 00:08:44,229
+Então a lição do maior prédio do mundo
+serve pra uma casa:
+
+154
+00:08:44,751 --> 00:08:46,726
+sem sondagem, você está chutando.
+
+155
+00:08:47,289 --> 00:08:49,339
+Faça a sondagem SPT sempre.
+
+156
+00:08:49,835 --> 00:08:53,618
+E em obra maior, ou em solo difícil, o
+ideal é recorrer a um engenheiro
+
+157
+00:08:53,638 --> 00:08:55,064
+geotécnico com experiência.
+
+158
+00:08:55,591 --> 00:08:59,772
+A fundação é a parte que ninguém vê, e a
+mais cara de corrigir depois.
+
+159
+00:09:02,016 --> 00:09:04,066
+Então, o que segura um gigante?
+
+160
+00:09:04,577 --> 00:09:08,125
+No Burj Khalifa, atrito e um formato que
+confunde o vento.
+
+161
+00:09:08,584 --> 00:09:11,816
+Em Taipei, uma bola de 660 toneladas.
+
+162
+00:09:12,172 --> 00:09:15,094
+Na Jeddah Tower, estacas de 105 metros.
+
+163
+00:09:15,441 --> 00:09:18,830
+Em Itaipu, concreto gelado e muita
+engenharia brasileira.
+
+164
+00:09:19,293 --> 00:09:21,240
+Nenhum deles fica de pé por força bruta.
+
+165
+00:09:21,711 --> 00:09:24,525
+Fica de pé porque alguém entendeu o chão,
+o vento e o material.
+
+166
+00:09:24,818 --> 00:09:29,210
+Se você curtiu, se inscreve no canal e
+comenta qual obra você quer ver
+
+167
+00:09:29,230 --> 00:09:31,101
+destrinchada no próximo vídeo.
+
+168
+00:09:31,458 --> 00:09:35,442
+E se quer ver como uma torre de praia no
+Brasil resolveu a fundação, o vídeo do
+
+169
+00:09:35,462 --> 00:09:36,962
+Senna Tower está aqui na tela.
