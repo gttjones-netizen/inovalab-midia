@@ -1,0 +1,69 @@
+
+// IL: autocorrecao do .htaccess (regras do WordPress, HTTPS, cache de anuncios e expires)
+function il_ht_blocos() {
+    return array(
+        'IL HTTPS' => <<<'TXT'
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+</IfModule>
+TXT,
+        'IL CACHE ADS' => <<<'TXT'
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_METHOD} GET
+RewriteCond %{QUERY_STRING} ^((utm_[a-z_]+|fbclid|gclid|gbraid|wbraid|msclkid)=[^&]*&?)+$ [NC]
+RewriteCond %{HTTP_COOKIE} !(wordpress_logged_in|wp-postpass|comment_author) [NC]
+RewriteCond %{DOCUMENT_ROOT}/wp-content/endurance-page-cache/$1/_index.html -f
+RewriteRule ^(.*?)/?$ /wp-content/endurance-page-cache/$1/_index.html [L]
+</IfModule>
+TXT,
+        'IL EXPIRES' => <<<'TXT'
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/webp "access plus 1 year"
+ExpiresByType image/svg+xml "access plus 1 year"
+ExpiresByType image/jpeg "access plus 1 year"
+ExpiresByType image/png "access plus 1 year"
+ExpiresByType font/woff2 "access plus 1 year"
+ExpiresByType application/javascript "access plus 1 month"
+ExpiresByType text/javascript "access plus 1 month"
+</IfModule>
+<IfModule mod_headers.c>
+<FilesMatch "\.(webp|svg|jpe?g|png|woff2)$">
+Header set Cache-Control "public, max-age=31536000, immutable"
+</FilesMatch>
+</IfModule>
+TXT,
+    );
+}
+function il_ht_verifica($forcar = false) {
+    if (!$forcar && get_transient('il_ht_ok')) return;
+    set_transient('il_ht_ok', 1, 10 * MINUTE_IN_SECONDS);
+    $f = ABSPATH . '.htaccess';
+    if (!file_exists($f) || !is_writable($f)) return;
+    $t = (string) file_get_contents($f);
+    if (strpos($t, '# BEGIN WordPress') === false || strpos($t, 'RewriteRule . /index.php') === false) {
+        require_once ABSPATH . 'wp-admin/includes/file.php';
+        require_once ABSPATH . 'wp-admin/includes/misc.php';
+        flush_rewrite_rules(true);
+        $t = (string) file_get_contents($f);
+    }
+    $novo = $t; $topo = '';
+    foreach (il_ht_blocos() as $nome => $corpo) {
+        $bloco = "# BEGIN $nome\n" . trim($corpo) . "\n# END $nome\n";
+        $re = '/# BEGIN ' . preg_quote($nome, '/') . '\R.*?# END ' . preg_quote($nome, '/') . '\R?/s';
+        if (preg_match($re, $novo)) $novo = preg_replace_callback($re, function () use ($bloco) { return $bloco; }, $novo, 1);
+        else $topo .= $bloco . "\n";
+    }
+    $novo = $topo . $novo;
+    if ($novo !== $t) {
+        @copy($f, $f . '.il-bak');
+        file_put_contents($f, $novo, LOCK_EX);
+    }
+}
+add_action('init', 'il_ht_verifica', 99);
+add_action('generate_rewrite_rules', function () { delete_transient('il_ht_ok'); });
+add_action('shutdown', function () { if (did_action('generate_rewrite_rules')) il_ht_verifica(true); });
