@@ -322,30 +322,29 @@ def frame(c, t, overlays=True):
     tarja(img, d, t, c.tarja[0], c.tarja[1], TITLE, SUB)
     return img.convert('RGB')
 
-THUMB2 = ['MEU BOLETIM', 'VIROU CALÇO']
+THUMB2 = [('SEU BOLETIM', YEL), ('NÃO DEFINE', WHITE), ('SUA CARREIRA', YEL)]
 def capa(c):
     lo = Image.new('RGB', (LW, LH)); d = ImageDraw.Draw(lo)
     lo.paste(bg('room')); desk(d, 2.0, 1)
-    # calço gigante
-    d.rectangle([52, 240, 82, 252], fill=BK); d.rectangle([53, 241, 81, 251], fill=(250, 248, 238)); ptext(d, (67, 246), '10', 10, RED)
-    z = 1.5; cw, chh = LW / z, LH / z; x0, y0 = 20, 250 - chh * .78
+    z = 1.2; cw, chh = LW / z, LH / z; x0, y0 = (LW - cw) / 2, (LH - chh) / 2
     img = lo.crop((int(x0), int(y0), int(x0 + cw), int(y0 + chh))).resize((W, H), Image.NEAREST)
-    img = ImageEnhance.Brightness(img).enhance(.85).convert('RGBA')
+    img = ImageEnhance.Brightness(img).enhance(.7).convert('RGBA')
     vig = Image.new('L', (W, H), 0); g = ImageDraw.Draw(vig)
     g.ellipse([-300, -200, W + 300, H + 200], fill=255); vig = vig.filter(ImageFilter.GaussianBlur(160))
     img = Image.composite(img, Image.new('RGBA', (W, H), (0, 0, 0, 255)), vig)
-    # Bloquinho grande, olhos arregalados (desenhado em lógico e ampliado)
-    B = Image.new('RGBA', (90, 90), (0, 0, 0, 0)); bd = ImageDraw.Draw(B)
-    person(bd, 'BLQ', 45, 86, 2.4, 'point', 'wide', 1.0, flip=True)
-    B = B.resize((90 * 7, 90 * 7), Image.NEAREST); img.alpha_composite(B, (520, 1100))
-    d = ImageDraw.Draw(img)
-    arrow(d, 600, 1420, 380, 1330, RED, 34, 70)
+    # Bloquinho grande segurando o boletim 10 riscado
+    B = Image.new('RGBA', (100, 100), (0, 0, 0, 0)); bd = ImageDraw.Draw(B)
+    person(bd, 'BLQ', 34, 96, 2.6, 'hold', 'wide', 1.0)
+    boletim(bd, 70, 52, 1.25)
+    bd.line([(55, 34), (85, 70)], fill=RED, width=3); bd.line([(85, 34), (55, 70)], fill=RED, width=3)
+    B = B.resize((700, 700), Image.NEAREST); img.alpha_composite(B, (190, 1000))
     L = Image.new('RGBA', (W, H), (0, 0, 0, 0)); g = ImageDraw.Draw(L)
-    sz = 140
-    while max(g.textlength(s, font=F(900, sz)) for s in THUMB2) > 980: sz -= 4
-    g.rectangle([0, 760 - sz * 1.3, W, 760 + sz * 1.3], fill=(10, 12, 16, 235))
-    g.text((W / 2, 760 - sz * .6), THUMB2[0], font=F(900, sz), fill=YEL, stroke_width=11, stroke_fill=(0, 0, 0), anchor='mm')
-    g.text((W / 2, 760 + sz * .62), THUMB2[1], font=F(900, sz), fill=WHITE, stroke_width=11, stroke_fill=(0, 0, 0), anchor='mm')
+    sz = 150
+    while max(g.textlength(t, font=F(900, sz)) for t, _ in THUMB2) > 980: sz -= 4
+    lh = sz * 1.08; top = 760 - lh * 1.5
+    g.rectangle([0, top - sz * .25, W, top + lh * 3 + sz * .2], fill=(10, 12, 16, 235))
+    for i, (t, col) in enumerate(THUMB2):
+        g.text((W / 2, top + lh * (i + .5)), t, font=F(900, sz), fill=col, stroke_width=11, stroke_fill=(0, 0, 0), anchor='mm')
     L = L.rotate(-4, center=(W / 2, 760), resample=Image.BICUBIC); img.alpha_composite(L)
     return img.convert('RGB')
 
